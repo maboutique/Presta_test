@@ -1183,7 +1183,7 @@
   ),
   'CmsController' => 
   array (
-    'path' => '',
+    'path' => 'override/controllers/front/CmsController.php',
     'type' => 'class',
     'override' => false,
   ),

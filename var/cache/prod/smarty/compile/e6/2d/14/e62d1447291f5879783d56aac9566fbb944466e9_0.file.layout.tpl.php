@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.39, created on 2021-09-08 08:40:15
+/* Smarty version 3.1.39, created on 2021-09-08 14:48:08
   from 'C:\MAMP\htdocs\Presta\admin735kcaaj4\themes\new-theme\template\layout.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_61385acfc31a98_60028492',
+  'unifunc' => 'content_6138b108cb8721_35941883',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -33,7 +33,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:error.tpl' => 1,
   ),
 ),false)) {
-function content_61385acfc31a98_60028492 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6138b108cb8721_35941883 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!DOCTYPE html>
 <html lang="<?php echo $_smarty_tpl->tpl_vars['iso']->value;?>
 ">
